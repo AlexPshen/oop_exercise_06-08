@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread   CMakeFiles/oop_exercise_08.dir/main.cpp.o CMakeFiles/oop_exercise_08.dir/rectangle.cpp.o CMakeFiles/oop_exercise_08.dir/quadrate.cpp.o CMakeFiles/oop_exercise_08.dir/trigon.cpp.o CMakeFiles/oop_exercise_08.dir/point.cpp.o CMakeFiles/oop_exercise_08.dir/factory.cpp.o  -o oop_exercise_08 
